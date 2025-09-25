@@ -2,6 +2,12 @@
 
 A comprehensive PDF-based Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents, index them into a vector database, and chat with the content using a Streamlit UI powered by Google Gemini.
 
+# Here are the scrrenshots of the UI displayed to the user
+![Screenshot](images/rag_chatbot.jpeg)
+![Screenshot](images/rag_chatbot(1).jpeg)
+
+
+
 ## 🌟 Features
 
 ### Core Functionality
